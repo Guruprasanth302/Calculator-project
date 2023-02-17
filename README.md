@@ -3,15 +3,15 @@ Why use it?
 Its useful for simple calculations.
 
 Features
-    Add
-    Multiply
-    Subtract
-    Divide
+   1)Add
+   2)Multiply
+   3)Subtract
+   4)Divide
 
 Built With
-    html
-    css
-    javascript
+   *html
+   *css
+   *javascript
 
 How to Run?
     To run my application you simply need to clone the project and run the html file.
